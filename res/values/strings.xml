@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- The strings.xml is where you can code in permant values to use in the activity_main.xml file -->
+    <string name="app_name">Calc</string>
+    <color name="white">#FFFFFF</color>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="btnValue1">1</string>
+    <string name="btnValue2">2</string>
+    <string name="btnValue3">3</string>
+    <string name="btnValue4">4</string>
+    <string name="btnValue5">5</string>
+    <string name="btnValue6">6</string>
+    <string name="btnValue7">7</string>
+    <string name="btnValue8">8</string>
+    <string name="btnValue9">9</string>
+    <string name="btnValue0">0</string>
+    <string name="btnValueMulti">*</string>
+    <string name="btnValueDiv">/</string>
+    <string name="btnValueEquals">=</string>
+    <string name="btnValueAdd">+</string>
+    <string name="btnValueMinus">-</string>
+    <string name="btnValueLeftPara">(</string>
+    <string name="btnValueRightPara">)</string>
+    <string name="btnValuePower">^</string>
+    <string name="btnValueSquareRoot">sqr</string>
+
+</resources>
